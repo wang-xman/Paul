@@ -1,0 +1,32 @@
+.vscode/
+.default.code-workspace
+
+# design document folder is temporarily excluded
+/design_documents/
+/Design_Documents/
+code_convention*
+
+# virtual environment
+/venv_tests/
+venv_tests/
+venv*/
+
+# temp folder is excluded.
+/temp/
+
+# Exclude temporary output data store.
+/datastore/
+
+# Exclude auto generated folders in doc.
+/doc/source/_static/
+/doc/source/_templates/
+
+# Exclude all __pycache__ folders.
+__pycache__/
+# Exclude all build folders
+build/
+
+# Exclude .out files in unit tests
+/unit_tests/*.out
+/unittests/*.out
+/unittest/*.out

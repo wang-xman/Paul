@@ -1,0 +1,6 @@
+abydos @ git+https://github.com/chrislit/abydos.git@344346a5fceb6acc631b3d24e16b73a303cece2c
+deprecation==2.1.0
+install==1.3.5
+numpy==1.23.3
+packaging==24.1
+scipy
